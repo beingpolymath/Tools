@@ -23,3 +23,7 @@
 
 # Nuclei Templates
 [https://github.com/emadshanab/Nuclei-Templates-Collection](https://github.com/emadshanab/Nuclei-Templates-Collection)
+
+
+# openapi-data
+[https://github.com/principaljava/openapi-data](https://github.com/principaljava/openapi-data)
