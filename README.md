@@ -1,9 +1,12 @@
 # Guides
 [https://github.com/KathanP19/HowToHunt](https://github.com/KathanP19/HowToHunt)
+[https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 
 # Tools
 [https://github.com/eslam3kl/crtfinder](https://github.com/eslam3kl/crtfinder)
 [https://github.com/gwen001/github-search](https://github.com/gwen001/github-search)
+[https://github.com/GerbenJavado/LinkFinder](https://github.com/GerbenJavado/LinkFinder)
+[https://github.com/ticarpi/jwt_tool](https://github.com/ticarpi/jwt_tool)
 **I don't own this tools. Taken from internet**
 
 # Scripts
