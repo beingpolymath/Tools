@@ -21,3 +21,5 @@
 # OS Scripts
 [https://github.com/MrNeilJ/MacScript](https://github.com/MrNeilJ/MacScript)
 
+# Nuclei Templates
+[https://github.com/emadshanab/Nuclei-Templates-Collection](https://github.com/emadshanab/Nuclei-Templates-Collection)
